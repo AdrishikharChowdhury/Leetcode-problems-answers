@@ -19,24 +19,29 @@ This repository contains solutions to various LeetCode problems. Each solution i
 
 The repository is organized as follows:
 
-README.md
+1. **README.md**
 
-Easy
+2. **Easy**
 
-1. Three Consecutive Odds
+	**a. Three Consecutive Odds**
 
-		i) threeConsecutiveOdds.md
-		ii) threeConsecutiveOdds.c
-		iii) threeConsecutiveOdds.java 
-Medium
+			i) threeConsecutiveOdds.md
+			ii) threeConsecutiveOdds.c
+			iii) threeConsecutiveOdds.java 
+	**b. Two Sum**
 
-1. Add Two Numbers
+			i) TwoSum.md
+			ii) TwoSum.c
+			iii) TwoSum.java
+3. **Medium**
 
-		i) Addtwonumbers.md
-		ii) Addtwonumbers.c
-		iii) Addtwonumbers.java
+	**a. Add Two Numbers**
+
+			i) Addtwonumbers.md
+			ii) Addtwonumbers.c
+			iii) Addtwonumbers.java
 	
-Hard
+4. **Hard**
 
 ## Usage
 Navigate to the directory of the problem you want to view and open the corresponding solution file.
@@ -66,4 +71,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you have any questions or suggestions, feel free to contact me:
 
 Email: amiadrishikhar@gmail.com
+
 GitHub: AdrishikharChowdhury
