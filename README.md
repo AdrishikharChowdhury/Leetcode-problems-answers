@@ -23,13 +23,19 @@ README.md
 
 Easy
 
-1.Three Consecutive Odds
+1. Three Consecutive Odds
 
-	-threeConsecutiveOdds.md
-	-threeConsecutiveOdds.c
-	-threeConsecutiveOdds.java 
+		i) threeConsecutiveOdds.md
+		ii) threeConsecutiveOdds.c
+		iii) threeConsecutiveOdds.java 
 Medium
 
+1. Add Two Numbers
+
+		i) Addtwonumbers.md
+		ii) Addtwonumbers.c
+		iii) Addtwonumbers.java
+	
 Hard
 
 ## Usage
