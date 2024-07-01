@@ -3,6 +3,7 @@
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+![image](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/assets/93586036/411adc76-71a0-464d-999e-a807c432ad1d)
 
 ## Example 1:
 
