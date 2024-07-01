@@ -25,9 +25,9 @@ Easy
 
 1.Three Consecutive Odds
 
-	-description.md
-	-solution.c
-	-solution.java 
+	-threeConsecutiveOdds.md
+	-threeConsecutiveOdds.c
+	-threeConsecutiveOdds.java 
 Medium
 
 Hard
@@ -39,7 +39,7 @@ Example:
 cd Easy/problem1
 cat solution.py
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have a solution to a LeetCode problem that is not already in this repository, feel free to add it.
 
