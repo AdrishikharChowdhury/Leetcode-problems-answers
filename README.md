@@ -23,25 +23,55 @@ The repository is organized as follows:
 
 2. **Easy**
 
-	**a. Three Consecutive Odds**
+	<strong>1293-three-consecutive-odds</strong>
 
-			i) threeConsecutiveOdds.md
-			ii) threeConsecutiveOdds.c
-			iii) threeConsecutiveOdds.java 
-	**b. Two Sum**
+   		i) README.md
+		ii) three-consecutive-odds.c
+		iii) three-consecutive-odds.java 
+	<strong>1-two-sum</strong>
+ 
+		i) README.md
+		ii) two-sum.c
+		iii) two-sum.java
+	<strong>141-linked-list-cycle</strong>
 
-			i) TwoSum.md
-			ii) TwoSum.c
-			iii) TwoSum.java
-3. **Medium**
+ 		i) README.md
+   		ii) linked-list-cycle.c
+   		iii) linked-list-cycle.java
+   	<strong>1806-count-of-matches-in-tournament</strong>
 
-	**a. Add Two Numbers**
+    		i) README.md
+   		ii) count-of-matches-in-tournament.c
+   		iii) count-of-matches-in-tournament.java
+	<strong>231-power-of-two</strong>
 
-			i) Addtwonumbers.md
-			ii) Addtwonumbers.c
-			iii) Addtwonumbers.java
+   		i) README.md
+   		ii) power-of-two.c
+   		iii) power-of-two.java
+   	<strong>326-power-of-three</strong>
+
+		i) README.md
+		ii) power-of-three.c
+		iii) power-of-three.java
+	<strong>342-power-of-four</strong>
+
+ 		i) README.md
+   		ii) power-of-four.c
+   		iii) power-of-four.java
+	<strong>350-intersection-of-two-arrays-ii</strong>
+
+ 		i) README.md
+   		ii) intersection-of-two-arrays-ii.c
+   		iii) intersection-of-two-arrays-ii.java
+4. **Medium**
+
+   	<strong>A. 2-add-two-numbers</strong>
+
+		i) Readme.md
+		ii) add-two-numbers.c
+		iii) add-two-numbers.java
 	
-4. **Hard**
+6. **Hard**
 
 ## Usage
 Navigate to the directory of the problem you want to view and open the corresponding solution file.
