@@ -63,6 +63,11 @@ The repository is organized as follows:
  		i) README.md
    		ii) intersection-of-two-arrays-ii.c
    		iii) intersection-of-two-arrays-ii.java
+   	<strong>485-max-consecutive-ones</strong>
+
+    		i) README.md
+   		ii) max-consecutive-ones.c
+   		iii) max-consecutive-ones.java
 4. **Medium**
 
    	<strong>A. 2-add-two-numbers</strong>
