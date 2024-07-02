@@ -70,12 +70,17 @@ The repository is organized as follows:
    		iii) max-consecutive-ones.java
 4. **Medium**
 
-   	<strong>A. 2-add-two-numbers</strong>
+   	<strong>2-add-two-numbers</strong>
 
-		i) Readme.md
+		i) README.md
 		ii) add-two-numbers.c
 		iii) add-two-numbers.java
-	
+
+ 	<strong>1889-check-if-number-is-a-sum-of-powers-of-three</strong>
+
+  		i) README.md
+   		ii) check-if-number-is-a-sum-of-powers-of-three.c
+   		iii) check-if-number-is-a-sum-of-powers-of-three.java
 6. **Hard**
 
 ## Usage
