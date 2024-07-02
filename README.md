@@ -40,7 +40,7 @@ The repository is organized as follows:
    		iii) linked-list-cycle.java
    	<strong>1806-count-of-matches-in-tournament</strong>
 
-    		i) README.md
+   		i) README.md
    		ii) count-of-matches-in-tournament.c
    		iii) count-of-matches-in-tournament.java
 	<strong>231-power-of-two</strong>
@@ -65,7 +65,7 @@ The repository is organized as follows:
    		iii) intersection-of-two-arrays-ii.java
    	<strong>485-max-consecutive-ones</strong>
 
-    		i) README.md
+   		i) README.md
    		ii) max-consecutive-ones.c
    		iii) max-consecutive-ones.java
 4. **Medium**
