@@ -70,7 +70,7 @@ The repository is organized as follows:
    		iii) max-consecutive-ones.java
    	<strong>3379-score-of-a-string</strpng>
 
-    		i) README.md
+		i) README.md
    		ii) score-of-a-string.c
    		iii) score-of-a-string.java
    	<strong>1406-subtract-the-product-and-sum-of-digits-of-an-integer</strong>
@@ -94,7 +94,7 @@ The repository is organized as follows:
 
    	<strong>1616-minimum-difference-between-largest-and-smallest-value-in-three-moves</strong>
 
-    		i) README.md
+		i) README.md
    		ii) minimum-difference-between-largest-and-smallest-value-in-three-moves.c
    		iii) minimum-difference-between-largest-and-smallest-value-in-three-moves.java
    	<strong>755-reach-a-number</strong>
