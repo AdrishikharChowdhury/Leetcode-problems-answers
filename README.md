@@ -68,6 +68,16 @@ The repository is organized as follows:
    		i) README.md
    		ii) max-consecutive-ones.c
    		iii) max-consecutive-ones.java
+   	<strong>3379-score-of-a-string</strpng>
+
+    		i) README.md
+   		ii) score-of-a-string.c
+   		iii) score-of-a-string.java
+   	<strong>1406-subtract-the-product-and-sum-of-digits-of-an-integer</strong>
+
+		i) README.md
+		ii) subtract-the-product-and-sum-of-digits-of-an-integer.c
+		iii) subtract-the-product-and-sum-of-digits-of-an-integer.java
 4. **Medium**
 
    	<strong>2-add-two-numbers</strong>
@@ -81,6 +91,17 @@ The repository is organized as follows:
   		i) README.md
    		ii) check-if-number-is-a-sum-of-powers-of-three.c
    		iii) check-if-number-is-a-sum-of-powers-of-three.java
+
+   	<strong>1616-minimum-difference-between-largest-and-smallest-value-in-three-moves</strong>
+
+    		i) README.md
+   		ii) minimum-difference-between-largest-and-smallest-value-in-three-moves.c
+   		iii) minimum-difference-between-largest-and-smallest-value-in-three-moves.java
+   	<strong>755-reach-a-number</strong>
+
+		i) README.md
+		ii) reach-a-number.c
+		iii) reach-a-number.java
 6. **Hard**
 
 ## Usage
