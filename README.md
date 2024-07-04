@@ -102,6 +102,11 @@ The repository is organized as follows:
 		i) README.md
 		ii) reach-a-number.c
 		iii) reach-a-number.java
+	<strong>1616-minimum-difference-between-largest-and-smallest-value-in-three-moves</strong>
+
+ 		i) README.md
+   		ii) minimum-difference-between-largest-and-smallest-value-in-three-moves.c
+   		iii) minimum-difference-between-largest-and-smallest-value-in-three-moves.java
 6. **Hard**
 
 ## Usage
