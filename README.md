@@ -78,6 +78,16 @@ The repository is organized as follows:
 		i) README.md
 		ii) subtract-the-product-and-sum-of-digits-of-an-integer.c
 		iii) subtract-the-product-and-sum-of-digits-of-an-integer.java
+	<strong>2645-pass-the-pillow</strong>
+
+ 		i) README.md
+   		ii) pass-the-pillow.c
+   		iii) pass-the-pillow.java
+   	<strong>344-reverse-string</strong>
+
+		i) README.md
+   		ii) reverse-string.c
+   		iii) reverse-string.java
 4. **Medium**
 
    	<strong>2-add-two-numbers</strong>
@@ -107,6 +117,26 @@ The repository is organized as follows:
  		i) README.md
    		ii) minimum-difference-between-largest-and-smallest-value-in-three-moves.c
    		iii) minimum-difference-between-largest-and-smallest-value-in-three-moves.java
+   	<strong>116-populating-next-right-pointers-in-each-node</strong>
+
+		i) README.md
+   		ii) populating-next-right-pointers-in-each-node.c
+		iii) populating-next-right-pointers-in-each-node.java
+	<strong>2299-merge-nodes-in-between-zeros</strong>
+
+		i) README.md
+		ii) merge-nodes-in-between-zeros.c
+		iii) merge-nodes-in-between-zeros.java
+	<strong>1014-k-closest-points-to-origin</strong>
+
+		i) README.md
+		ii) k-closest-points-to-origin.c
+		iii) k-closest-points-to-origin.java
+	<strong>2006-find-the-student-that-will-replace-the-chalk</strong>
+
+ 		i) README.md
+   		ii) find-the-student-that-will-replace-the-chalk.c
+   		iii) find-the-student-that-will-replace-the-chalk.java
 6. **Hard**
 
 ## Usage
