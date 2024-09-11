@@ -2,3 +2,4 @@
 2326-spiral-matrix-iv|Medium|1725906600000
 2807-insert-greatest-common-divisors-in-linked-list|Medium|1725906600000
 1926-nearest-exit-from-entrance-in-maze|Medium|1725993000000
+2220-minimum-bit-flips-to-convert-number|Easy|1725993000000
