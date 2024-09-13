@@ -4,3 +4,4 @@
 1926-nearest-exit-from-entrance-in-maze|Medium|1725993000000
 2220-minimum-bit-flips-to-convert-number|Easy|1725993000000
 1684-count-the-number-of-consistent-strings|Easy|1726165800000
+1310-xor-queries-of-a-subarray|Medium|1726165800000
