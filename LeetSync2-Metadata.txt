@@ -17,3 +17,4 @@
 386-lexicographical-numbers|Medium|1726857000000
 440-k-th-smallest-in-lexicographical-order|Hard|1726943400000
 2336-smallest-number-in-infinite-set|Medium|1726943400000
+2542-maximum-subsequence-score|Medium|1726943400000
