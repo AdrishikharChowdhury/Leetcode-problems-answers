@@ -18,3 +18,4 @@
 440-k-th-smallest-in-lexicographical-order|Hard|1726943400000
 2336-smallest-number-in-infinite-set|Medium|1726943400000
 2542-maximum-subsequence-score|Medium|1726943400000
+3043-find-the-length-of-the-longest-common-prefix|Medium|1727116200000
