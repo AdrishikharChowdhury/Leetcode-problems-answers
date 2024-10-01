@@ -26,3 +26,4 @@
 1381-design-a-stack-with-increment-operation|Medium|1727721000000
 1497-check-if-array-pairs-are-divisible-by-k|Medium|1727807400000
 641-design-circular-deque|Medium|1727807400000
+2707-extra-characters-in-a-string|Medium|1727807400000
