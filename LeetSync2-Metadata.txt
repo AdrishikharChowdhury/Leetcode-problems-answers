@@ -27,3 +27,4 @@
 1497-check-if-array-pairs-are-divisible-by-k|Medium|1727807400000
 641-design-circular-deque|Medium|1727807400000
 2707-extra-characters-in-a-string|Medium|1727807400000
+1590-make-sum-divisible-by-p|Medium|1727980200000
