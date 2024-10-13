@@ -36,3 +36,4 @@
 1963-minimum-number-of-swaps-to-make-the-string-balanced|Medium|1728325800000
 1942-the-number-of-the-smallest-unoccupied-chair|Medium|1728671400000
 2406-divide-intervals-into-minimum-number-of-groups|Medium|1728757800000
+632-smallest-range-covering-elements-from-k-lists|Hard|1728757800000
