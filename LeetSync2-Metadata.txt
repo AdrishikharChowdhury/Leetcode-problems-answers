@@ -39,3 +39,4 @@
 632-smallest-range-covering-elements-from-k-lists|Hard|1728757800000
 951-flip-equivalent-binary-trees|Medium|1729708200000
 1233-remove-sub-folders-from-the-filesystem|Medium|1729794600000
+1829-maximum-xor-for-each-query|Medium|1731004200000
