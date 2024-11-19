@@ -41,3 +41,4 @@
 1233-remove-sub-folders-from-the-filesystem|Medium|1729794600000
 1829-maximum-xor-for-each-query|Medium|1731004200000
 1574-shortest-subarray-to-be-removed-to-make-array-sorted|Medium|1731609000000
+2461-maximum-sum-of-distinct-subarrays-with-length-k|Medium|1731954600000
