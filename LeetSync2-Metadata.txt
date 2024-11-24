@@ -46,3 +46,4 @@
 2257-count-unguarded-cells-in-the-grid|Medium|1732127400000
 1072-flip-columns-for-maximum-number-of-equal-rows|Medium|1732213800000
 1861-rotating-the-box|Medium|1732300200000
+1975-maximum-matrix-sum|Medium|1732386600000
