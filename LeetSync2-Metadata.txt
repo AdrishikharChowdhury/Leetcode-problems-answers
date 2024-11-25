@@ -48,3 +48,4 @@
 1861-rotating-the-box|Medium|1732300200000
 1975-maximum-matrix-sum|Medium|1732386600000
 374-guess-number-higher-or-lower|Easy|1732386600000
+773-sliding-puzzle|Hard|1732473000000
