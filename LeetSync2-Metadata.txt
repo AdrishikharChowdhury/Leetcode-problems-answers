@@ -49,3 +49,4 @@
 1975-maximum-matrix-sum|Medium|1732386600000
 374-guess-number-higher-or-lower|Easy|1732386600000
 773-sliding-puzzle|Hard|1732473000000
+2924-find-champion-ii|Medium|1732645800000
