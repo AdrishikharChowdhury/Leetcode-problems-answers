@@ -51,3 +51,4 @@
 773-sliding-puzzle|Hard|1732473000000
 2924-find-champion-ii|Medium|1732645800000
 3243-shortest-distance-after-road-addition-queries-i|Medium|1732645800000
+2577-minimum-time-to-visit-a-cell-in-a-grid|Hard|1732905000000
