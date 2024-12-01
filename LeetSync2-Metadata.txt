@@ -53,3 +53,4 @@
 3243-shortest-distance-after-road-addition-queries-i|Medium|1732645800000
 2577-minimum-time-to-visit-a-cell-in-a-grid|Hard|1732905000000
 2097-valid-arrangement-of-pairs|Hard|1732905000000
+1346-check-if-n-and-its-double-exist|Easy|1732991400000
