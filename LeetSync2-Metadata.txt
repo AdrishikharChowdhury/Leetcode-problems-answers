@@ -55,3 +55,4 @@
 2097-valid-arrangement-of-pairs|Hard|1732905000000
 1346-check-if-n-and-its-double-exist|Easy|1732991400000
 2154-keep-multiplying-found-values-by-two|Easy|1732991400000
+1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence|Easy|1733077800000
