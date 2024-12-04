@@ -57,3 +57,4 @@
 2154-keep-multiplying-found-values-by-two|Easy|1732991400000
 1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence|Easy|1733077800000
 2109-adding-spaces-to-a-string|Medium|1733250600000
+2825-make-string-a-subsequence-using-cyclic-increments|Medium|1733337000000
