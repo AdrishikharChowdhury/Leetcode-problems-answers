@@ -59,3 +59,4 @@
 2109-adding-spaces-to-a-string|Medium|1733250600000
 2825-make-string-a-subsequence-using-cyclic-increments|Medium|1733337000000
 136-single-number|Easy|1733509800000
+1760-minimum-limit-of-balls-in-a-bag|Medium|1733509800000
