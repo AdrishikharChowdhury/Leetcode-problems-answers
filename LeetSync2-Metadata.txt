@@ -61,3 +61,4 @@
 136-single-number|Easy|1733509800000
 1760-minimum-limit-of-balls-in-a-bag|Medium|1733509800000
 2054-two-best-non-overlapping-events|Medium|1733596200000
+53-maximum-subarray|Medium|1733596200000
