@@ -16,6 +16,15 @@ public:
             freq-=1;
         }
     }
-    return ans;
+    int count=0;
+    for(int val:nums)
+    {
+        if(val==ans)
+        count+=1;
+    }
+    if(count>n/2)
+        return ans;
+    else
+        return -1;
     }
 };
