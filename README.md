@@ -45,3 +45,15 @@ If you have any questions or suggestions, feel free to contact me:
 Email: amiadrishikhar@gmail.com
 
 GitHub: AdrishikharChowdhury
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1537-maximum-score-after-splitting-a-string) |
+<!---LeetCode Topics End-->
