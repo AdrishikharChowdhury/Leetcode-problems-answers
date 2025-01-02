@@ -52,14 +52,17 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Array
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
