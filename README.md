@@ -68,6 +68,7 @@ GitHub: AdrishikharChowdhury
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
 | [0907-koko-eating-bananas](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0907-koko-eating-bananas) |
@@ -91,6 +92,7 @@ GitHub: AdrishikharChowdhury
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0136-single-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
 |  |
