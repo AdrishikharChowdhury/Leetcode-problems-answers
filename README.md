@@ -68,6 +68,7 @@ GitHub: AdrishikharChowdhury
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2358-number-of-ways-to-split-array) |
@@ -97,6 +98,7 @@ GitHub: AdrishikharChowdhury
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
