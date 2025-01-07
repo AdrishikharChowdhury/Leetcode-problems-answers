@@ -51,6 +51,7 @@ GitHub: AdrishikharChowdhury
 ## String
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -72,6 +73,7 @@ GitHub: AdrishikharChowdhury
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
 | [0907-koko-eating-bananas](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0907-koko-eating-bananas) |
+| [1524-string-matching-in-an-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -108,4 +110,8 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
