@@ -58,6 +58,7 @@ GitHub: AdrishikharChowdhury
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +82,7 @@ GitHub: AdrishikharChowdhury
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2465-shifting-letters-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +121,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Tree
 |  |
 | ------- |
@@ -135,4 +138,16 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
