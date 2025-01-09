@@ -76,6 +76,7 @@ GitHub: AdrishikharChowdhury
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0907-koko-eating-bananas) |
 | [1524-string-matching-in-an-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -89,6 +90,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
