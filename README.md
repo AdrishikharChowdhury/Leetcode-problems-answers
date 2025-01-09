@@ -89,6 +89,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,4 +154,12 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
