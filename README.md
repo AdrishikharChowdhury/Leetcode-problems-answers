@@ -170,6 +170,7 @@ GitHub: AdrishikharChowdhury
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0062-unique-paths) |
 | [1236-n-th-tribonacci-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -188,4 +189,8 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
