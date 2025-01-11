@@ -75,6 +75,7 @@ GitHub: AdrishikharChowdhury
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0198-house-robber) |
@@ -95,6 +96,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0062-unique-paths) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0747-min-cost-climbing-stairs) |
