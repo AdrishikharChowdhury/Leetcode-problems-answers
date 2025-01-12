@@ -52,6 +52,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0072-edit-distance) |
 | [0952-word-subsets](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
@@ -98,6 +99,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
