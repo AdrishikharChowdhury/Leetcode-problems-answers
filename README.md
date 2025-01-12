@@ -102,6 +102,7 @@ GitHub: AdrishikharChowdhury
 | [0072-edit-distance](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0747-min-cost-climbing-stairs) |
@@ -125,6 +126,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0338-counting-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
 |  |
