@@ -127,6 +127,7 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0136-single-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0338-counting-bits) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
 |  |
