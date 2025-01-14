@@ -95,6 +95,7 @@ GitHub: AdrishikharChowdhury
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2465-shifting-letters-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -123,6 +124,7 @@ GitHub: AdrishikharChowdhury
 | [0952-word-subsets](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
@@ -131,6 +133,7 @@ GitHub: AdrishikharChowdhury
 | [0338-counting-bits](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
