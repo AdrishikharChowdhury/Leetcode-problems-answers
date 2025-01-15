@@ -133,6 +133,7 @@ GitHub: AdrishikharChowdhury
 | [0338-counting-bits](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -205,6 +206,7 @@ GitHub: AdrishikharChowdhury
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
 | ------- |
