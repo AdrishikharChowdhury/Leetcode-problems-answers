@@ -78,6 +78,7 @@ GitHub: AdrishikharChowdhury
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
@@ -140,6 +141,7 @@ GitHub: AdrishikharChowdhury
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0011-container-with-most-water) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
@@ -205,6 +207,7 @@ GitHub: AdrishikharChowdhury
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0011-container-with-most-water) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
