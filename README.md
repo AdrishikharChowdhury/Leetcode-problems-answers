@@ -69,6 +69,7 @@ GitHub: AdrishikharChowdhury
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -84,6 +85,7 @@ GitHub: AdrishikharChowdhury
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0238-product-of-array-except-self) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0747-min-cost-climbing-stairs) |
