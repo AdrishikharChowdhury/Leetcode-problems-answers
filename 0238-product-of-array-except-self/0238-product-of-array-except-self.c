@@ -2,27 +2,19 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* productExceptSelf(int* nums, int numsSize, int* returnSize) {
-    int* result = (int*)malloc(numsSize * sizeof(int));
-    *returnSize = numsSize;
-
-    // Initialize result array with 1s
-    for (int i = 0; i < numsSize; i++) {
-        result[i] = 1;
+    int i,suffix=1,n=numsSize;
+    int *ans=(int *)malloc(n*sizeof(int));
+    for(i=0;i<n;i++)
+        ans[i]=1;
+    for(i=1;i<n;i++)
+    {
+        ans[i]=ans[i-1]*nums[i-1];
     }
-
-    // Calculate left products
-    int leftProduct = 1;
-    for (int i = 0; i < numsSize; i++) {
-        result[i] *= leftProduct;
-        leftProduct *= nums[i];
+    for(i=n-2;i>=0;i--)
+    {
+        suffix*=nums[i+1];
+        ans[i]*=suffix;
     }
-
-    // Calculate right products and combine with left products
-    int rightProduct = 1;
-    for (int i = numsSize - 1; i >= 0; i--) {
-        result[i] *= rightProduct;
-        rightProduct *= nums[i];
-    }
-
-    return result;
+    *returnSize=n;
+    return ans;
 }
