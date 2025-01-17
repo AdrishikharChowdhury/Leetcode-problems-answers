@@ -98,6 +98,7 @@ GitHub: AdrishikharChowdhury
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -138,6 +139,7 @@ GitHub: AdrishikharChowdhury
 | [2509-minimize-xor](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2792-neighboring-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
