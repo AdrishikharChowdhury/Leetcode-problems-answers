@@ -86,6 +86,7 @@ GitHub: AdrishikharChowdhury
 | [0198-house-robber](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0238-product-of-array-except-self) |
+| [0407-trapping-rain-water-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0747-min-cost-climbing-stairs) |
@@ -177,6 +178,7 @@ GitHub: AdrishikharChowdhury
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -243,10 +245,12 @@ GitHub: AdrishikharChowdhury
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
