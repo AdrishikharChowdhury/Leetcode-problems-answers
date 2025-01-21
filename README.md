@@ -91,6 +91,7 @@ GitHub: AdrishikharChowdhury
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0747-min-cost-climbing-stairs) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -157,6 +158,7 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0907-koko-eating-bananas) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
