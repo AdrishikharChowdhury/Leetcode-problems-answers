@@ -90,6 +90,7 @@ GitHub: AdrishikharChowdhury
 | [0238-product-of-array-except-self](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -160,6 +161,7 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0907-koko-eating-bananas) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
