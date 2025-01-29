@@ -83,6 +83,7 @@ GitHub: AdrishikharChowdhury
 | [0011-container-with-most-water](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
@@ -159,6 +160,7 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
@@ -173,6 +175,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String Matching
 |  |
