@@ -61,6 +61,7 @@ GitHub: AdrishikharChowdhury
 | [1524-string-matching-in-an-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -267,6 +268,7 @@ GitHub: AdrishikharChowdhury
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Graph
 |  |
@@ -310,4 +312,8 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
