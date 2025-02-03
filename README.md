@@ -55,6 +55,7 @@ GitHub: AdrishikharChowdhury
 | [0072-edit-distance](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
@@ -147,6 +148,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0567-permutation-in-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -173,6 +175,7 @@ GitHub: AdrishikharChowdhury
 | [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0567-permutation-in-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
@@ -328,4 +331,8 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
