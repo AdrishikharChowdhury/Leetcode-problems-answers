@@ -62,6 +62,7 @@ GitHub: AdrishikharChowdhury
 | [1524-string-matching-in-an-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -155,6 +156,7 @@ GitHub: AdrishikharChowdhury
 | [0952-word-subsets](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -277,6 +279,7 @@ GitHub: AdrishikharChowdhury
 | [1364-tuple-with-same-product](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
 |  |
