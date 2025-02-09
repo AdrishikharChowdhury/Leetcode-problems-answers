@@ -117,6 +117,7 @@ GitHub: AdrishikharChowdhury
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2448-count-number-of-bad-pairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2685-first-completely-painted-row-or-column) |
@@ -159,6 +160,7 @@ GitHub: AdrishikharChowdhury
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -258,6 +260,7 @@ GitHub: AdrishikharChowdhury
 | [0050-powx-n](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0062-unique-paths) |
 | [1236-n-th-tribonacci-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1236-n-th-tribonacci-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2448-count-number-of-bad-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -281,6 +284,7 @@ GitHub: AdrishikharChowdhury
 | [1396-count-servers-that-communicate](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
 |  |
