@@ -26,12 +26,6 @@ public:
             return false;
         }
         int reverseNum=reverse(x);
-        if(x==reverseNum)
-        {
-            return true;
-        }
-        else{
-            return false;
-        }
+        return x==reverseNum;
     }
 };
