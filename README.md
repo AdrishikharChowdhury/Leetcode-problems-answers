@@ -81,6 +81,7 @@ GitHub: AdrishikharChowdhury
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Array
@@ -118,6 +119,7 @@ GitHub: AdrishikharChowdhury
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -201,6 +203,7 @@ GitHub: AdrishikharChowdhury
 | [0882-peak-index-in-a-mountain-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0907-koko-eating-bananas) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sorting
 |  |
 | ------- |
@@ -359,6 +362,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0567-permutation-in-string) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Design
 |  |
 | ------- |
