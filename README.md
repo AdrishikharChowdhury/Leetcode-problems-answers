@@ -135,6 +135,7 @@ GitHub: AdrishikharChowdhury
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3748-sort-matrix-by-diagonals](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +215,7 @@ GitHub: AdrishikharChowdhury
 | [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3748-sort-matrix-by-diagonals](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3748-sort-matrix-by-diagonals) |
 ## String Matching
 |  |
 | ------- |
@@ -342,6 +344,7 @@ GitHub: AdrishikharChowdhury
 | [2145-grid-game](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3748-sort-matrix-by-diagonals](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3748-sort-matrix-by-diagonals) |
 ## Shortest Path
 |  |
 | ------- |
