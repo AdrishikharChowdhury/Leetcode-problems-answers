@@ -91,6 +91,7 @@ GitHub: AdrishikharChowdhury
 | [0011-container-with-most-water](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,6 +161,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0036-valid-sudoku) |
 | [0567-permutation-in-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1364-tuple-with-same-product) |
@@ -336,6 +338,7 @@ GitHub: AdrishikharChowdhury
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1396-count-servers-that-communicate) |
