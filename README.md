@@ -114,6 +114,7 @@ GitHub: AdrishikharChowdhury
 | [1364-tuple-with-same-product](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1524-string-matching-in-an-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -218,6 +219,7 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0075-sort-colors](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3748-sort-matrix-by-diagonals) |
