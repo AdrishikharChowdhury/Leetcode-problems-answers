@@ -103,6 +103,7 @@ GitHub: AdrishikharChowdhury
 | [0204-count-primes](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0540-single-element-in-a-sorted-array) |
@@ -211,6 +212,7 @@ GitHub: AdrishikharChowdhury
 | [0033-search-in-rotated-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0907-koko-eating-bananas) |
@@ -348,6 +350,7 @@ GitHub: AdrishikharChowdhury
 | [0036-valid-sudoku](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1396-count-servers-that-communicate) |
@@ -400,4 +403,8 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0204-count-primes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
