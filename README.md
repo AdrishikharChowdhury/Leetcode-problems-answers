@@ -93,6 +93,7 @@ GitHub: AdrishikharChowdhury
 | [0033-search-in-rotated-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -208,6 +209,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -345,6 +347,7 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0036-valid-sudoku](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1396-count-servers-that-communicate) |
