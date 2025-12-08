@@ -93,6 +93,7 @@ GitHub: AdrishikharChowdhury
 | [0033-search-in-rotated-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
@@ -349,6 +350,7 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0036-valid-sudoku](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0407-trapping-rain-water-ii) |
@@ -380,6 +382,7 @@ GitHub: AdrishikharChowdhury
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sliding Window
