@@ -142,6 +142,7 @@ GitHub: AdrishikharChowdhury
 | [3429-special-array-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3748-sort-matrix-by-diagonals) |
+| [4005-maximum-total-subarray-value-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/4005-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -307,6 +308,7 @@ GitHub: AdrishikharChowdhury
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2509-minimize-xor) |
+| [4005-maximum-total-subarray-value-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/4005-maximum-total-subarray-value-i) |
 ## Counting
 |  |
 | ------- |
