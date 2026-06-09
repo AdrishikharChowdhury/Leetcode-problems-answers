@@ -105,6 +105,7 @@ GitHub: AdrishikharChowdhury
 | [0216-combination-sum-iii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0540-single-element-in-a-sorted-array) |
@@ -191,6 +192,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -207,6 +209,7 @@ GitHub: AdrishikharChowdhury
 | [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0567-permutation-in-string) |
@@ -218,6 +221,7 @@ GitHub: AdrishikharChowdhury
 | [0074-search-a-2d-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0907-koko-eating-bananas) |
