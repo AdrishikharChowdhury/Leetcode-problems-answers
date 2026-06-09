@@ -123,6 +123,7 @@ GitHub: AdrishikharChowdhury
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2058-concatenation-of-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2058-concatenation-of-array) |
 | [2145-grid-game](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2358-number-of-ways-to-split-array) |
@@ -390,6 +391,7 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2058-concatenation-of-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sliding Window
 |  |
