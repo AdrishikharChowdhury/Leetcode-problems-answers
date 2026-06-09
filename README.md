@@ -137,6 +137,7 @@ GitHub: AdrishikharChowdhury
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2792-neighboring-bitwise-xor) |
+| [3227-find-missing-and-repeated-values](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3429-special-array-i) |
@@ -182,6 +183,7 @@ GitHub: AdrishikharChowdhury
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
@@ -292,6 +294,7 @@ GitHub: AdrishikharChowdhury
 | [1236-n-th-tribonacci-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1236-n-th-tribonacci-number) |
 | [1500-count-largest-group](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1500-count-largest-group) |
 | [2448-count-number-of-bad-pairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2448-count-number-of-bad-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
 |  |
 | ------- |
@@ -363,6 +366,7 @@ GitHub: AdrishikharChowdhury
 | [2145-grid-game](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3748-sort-matrix-by-diagonals) |
 ## Shortest Path
 |  |
