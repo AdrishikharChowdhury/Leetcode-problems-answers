@@ -89,6 +89,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0036-valid-sudoku) |
@@ -204,6 +205,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
@@ -230,6 +232,7 @@ GitHub: AdrishikharChowdhury
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0088-merge-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
