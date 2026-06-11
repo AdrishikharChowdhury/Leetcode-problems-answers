@@ -247,6 +247,7 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,6 +259,7 @@ GitHub: AdrishikharChowdhury
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -300,6 +302,7 @@ GitHub: AdrishikharChowdhury
 | [1500-count-largest-group](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1500-count-largest-group) |
 | [2448-count-number-of-bad-pairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3227-find-missing-and-repeated-values) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Memoization
 |  |
 | ------- |
