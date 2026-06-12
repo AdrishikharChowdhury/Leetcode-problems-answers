@@ -146,6 +146,7 @@ GitHub: AdrishikharChowdhury
 | [3429-special-array-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3748-sort-matrix-by-diagonals) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/4005-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
@@ -161,6 +162,7 @@ GitHub: AdrishikharChowdhury
 | [0806-domino-and-tromino-tiling](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1250-longest-common-subsequence) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,6 +203,7 @@ GitHub: AdrishikharChowdhury
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2792-neighboring-bitwise-xor) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -250,6 +253,7 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -262,6 +266,7 @@ GitHub: AdrishikharChowdhury
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -305,6 +310,7 @@ GitHub: AdrishikharChowdhury
 | [1500-count-largest-group](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1500-count-largest-group) |
 | [2448-count-number-of-bad-pairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3227-find-missing-and-repeated-values) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Memoization
 |  |
