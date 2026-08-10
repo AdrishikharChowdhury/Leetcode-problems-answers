@@ -73,6 +73,7 @@ GitHub: AdrishikharChowdhury
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -313,6 +314,7 @@ GitHub: AdrishikharChowdhury
 | [1500-count-largest-group](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1500-count-largest-group) |
 | [2448-count-number-of-bad-pairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3227-find-missing-and-repeated-values) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Memoization
@@ -323,6 +325,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0062-unique-paths) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -412,6 +415,7 @@ GitHub: AdrishikharChowdhury
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2058-concatenation-of-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -433,6 +437,7 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0204-count-primes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
