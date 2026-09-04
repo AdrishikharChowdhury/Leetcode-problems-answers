@@ -86,6 +86,7 @@ GitHub: AdrishikharChowdhury
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2691-count-vowel-strings-in-ranges) |
+| [4284-smallest-stable-index-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/4284-smallest-stable-index-i) |
 ## Array
 |  |
 | ------- |
@@ -150,6 +151,7 @@ GitHub: AdrishikharChowdhury
 | [3748-sort-matrix-by-diagonals](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3748-sort-matrix-by-diagonals) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/4005-maximum-total-subarray-value-i) |
+| [4284-smallest-stable-index-i](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/4284-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
