@@ -182,6 +182,7 @@ GitHub: AdrishikharChowdhury
 | [0037-sudoku-solver](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0037-sudoku-solver) |
 | [0567-permutation-in-string](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0952-word-subsets) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1364-tuple-with-same-product) |
 | [1500-count-largest-group](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1502-construct-k-palindrome-strings) |
@@ -313,6 +314,7 @@ GitHub: AdrishikharChowdhury
 | [0062-unique-paths](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0263-ugly-number) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1236-n-th-tribonacci-number) |
 | [1500-count-largest-group](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1500-count-largest-group) |
 | [2448-count-number-of-bad-pairs](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/2448-count-number-of-bad-pairs) |
@@ -445,4 +447,8 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0240-search-a-2d-matrix-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1064-smallest-integer-divisible-by-k](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1064-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
