@@ -314,6 +314,7 @@ GitHub: AdrishikharChowdhury
 | [0062-unique-paths](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0263-ugly-number) |
+| [0866-rectangle-overlap](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0866-rectangle-overlap) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1236-n-th-tribonacci-number) |
 | [1500-count-largest-group](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1500-count-largest-group) |
@@ -451,4 +452,8 @@ GitHub: AdrishikharChowdhury
 |  |
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/1064-smallest-integer-divisible-by-k) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
