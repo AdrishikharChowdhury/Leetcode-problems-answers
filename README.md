@@ -199,6 +199,7 @@ GitHub: AdrishikharChowdhury
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0338-counting-bits) |
@@ -310,6 +311,7 @@ GitHub: AdrishikharChowdhury
 | ------- |
 | [0007-reverse-integer](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/AdrishikharChowdhury/Leetcode-problems-answers/tree/master/0204-count-primes) |
